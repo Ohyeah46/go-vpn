@@ -1,0 +1,10 @@
+/cert/*.key
+/cert/*.crt
+*.exe
+*.log
+*.out
+bin/
+vendor/
+.DS_Store
+.idea/
+.vscode/
